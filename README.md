@@ -1,5 +1,4 @@
-Car Price Prediction
-Overview
+
 This project aims to develop a machine learning model to predict car prices based on various features extracted from a dataset. The model utilizes linear regression to analyze the impact of different characteristics, such as the car's year, condition, odometer reading, and manufacturer, on its selling price.
 
 Features
